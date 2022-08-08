@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yashas
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning Andriod development using Kotlin
 - 💞️ I’m looking to collaborate on development work
 - 📫 How to reach me- mail
 
